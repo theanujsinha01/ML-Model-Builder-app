@@ -23,6 +23,20 @@ This project is a user-friendly **Machine Learning Model Builder** developed wit
 - Test the trained model with user input.
 - Save and download the trained model for future use.
 
+
+![Screenshot 2025-01-04 183951](https://github.com/user-attachments/assets/7d086399-62ac-463a-aa0a-77d8a47361e1)
+
+
+![Screenshot 2025-01-04 184120](https://github.com/user-attachments/assets/cbcd81ad-8ee4-4b12-90a6-e7ec8f51e478)
+
+![Screenshot 2025-01-04 184151](https://github.com/user-attachments/assets/c2145067-cbad-447a-9a27-1ba10dda474d)
+
+
+
+![Screenshot 2025-01-04 184619](https://github.com/user-attachments/assets/9d286552-4559-4ddb-8ecb-7a600be2d830)
+
+
+
 ## Requirements
 The required libraries are listed in the `requirements.txt` file. Install them with:
 ```bash
